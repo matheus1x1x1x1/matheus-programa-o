@@ -1,5 +1,5 @@
 print ('qual o seu nome?')
-msg= input ()
+msg = input ()
 
 
 
